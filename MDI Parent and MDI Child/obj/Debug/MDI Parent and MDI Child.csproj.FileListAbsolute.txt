@@ -1,0 +1,12 @@
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\bin\Debug\MDI Parent and MDI Child.exe.config
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\bin\Debug\MDI Parent and MDI Child.exe
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\bin\Debug\MDI Parent and MDI Child.pdb
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI Parent and MDI Child.csprojAssemblyReference.cache
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI_Parent_and_MDI_Child.formContainer.resources
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI_Parent_and_MDI_Child.Properties.Resources.resources
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI Parent and MDI Child.csproj.GenerateResource.cache
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI Parent and MDI Child.csproj.CoreCompileInputs.cache
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI Parent and MDI Child.exe
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI Parent and MDI Child.pdb
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI_Parent_and_MDI_Child.Form1.resources
+D:\Azri's Project\.NET Core\Menu Strip\Menu Strip Example\MDI Parent and MDI Child\obj\Debug\MDI_Parent_and_MDI_Child.Form2.resources
